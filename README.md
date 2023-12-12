@@ -1,1 +1,0 @@
-A README file for Shimple Shell project
